@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  
- * @author nguyen nhut tuong
+ * @author Nguyễn Nhựt Tường
  */
 public class Lad31 {
 

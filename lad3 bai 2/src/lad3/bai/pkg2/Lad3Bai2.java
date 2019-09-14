@@ -7,7 +7,7 @@ package lad3.bai.pkg2;
 
 /**
  *
- * @author nguyen nhut tuong
+ * @author Nguyễn Nhựt Tường
  */
 public class Lad3Bai2 {
 

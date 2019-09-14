@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Nguyen nhut tuong
+ * @author Nguyễn Nhựt Tường
  */
 public class Lad3bai3 {
     
